@@ -1,0 +1,21 @@
+nav {
+    margin: 20px 0;
+  }
+  
+  .navbar {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .nav-item button {
+    border: none;
+    background: none;
+    color: #007bff;
+    cursor: pointer;
+    text-decoration: underline;
+  }
+  
+  .nav-item button:hover {
+    color: #0056b3;
+  }
+  
